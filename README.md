@@ -96,4 +96,5 @@ mobile_app
 sign_up_at
 
 What would make your experience with this assessment better?
-to be able to use the SQL workbench platform, its more relevant and relatable to our project later on
+Show the result page so we will know what result we are suppose to get and to be able to use the SQL workbench platform, 
+its more relevant and relatable to our project later on
